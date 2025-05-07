@@ -148,3 +148,8 @@ print(double_input(input_tensor))
 * [Deep Learning with PyTorch: 60-Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * [TensorFlow Beginner Guide](https://www.tensorflow.org/tutorials/quickstart/beginner)
 
+---
+
+📌 **Note:** This repository is updated regularly as I continue my learning journey through deep learning fundamentals and applied projects. Feel free to ⭐ star and follow along!
+
+```
